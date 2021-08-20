@@ -17,7 +17,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 👨🏽‍💻 I’m currently pursuing BTECH CSE from Moradabad.
+- 👋 Hi, I'm Vaibhav Jain.
+
+- 👨🏽‍💻 I’m currently pursuing BTECH (CSE) from Moradabad.
 
 - 📫 How to reach me vaibhavdeveloper2000@gmail.com.
 
