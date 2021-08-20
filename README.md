@@ -19,7 +19,7 @@
 
 - 👨🏽‍💻 I’m currently pursuing BTECH CSE from Moradabad.
 
-- 📫 How to reach me: [@vaibhav_gmail](vaibhavdeveloper2000@gmail.com).
+- 📫 How to reach me vaibhavdeveloper2000@gmail.com.
 
 - ⚡ Fun fact: I love to do coding in free time.
 
